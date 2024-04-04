@@ -5,7 +5,8 @@
 
 
 ## 배포 주소
-비용 문제로 서버 닫음
+*비용 문제로 서버 닫음
+
 https://weatherable.store
 
 
