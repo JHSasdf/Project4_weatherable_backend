@@ -18,6 +18,9 @@ https://weatherable.store
 |----|--|------|
 |guest|test|111111|
 
+## 서비스 아키텍처
+![weatherable_architecture drawio](https://github.com/JHSasdf/Project4_weatherable_backend/assets/146299597/d5982012-ce01-414e-8c04-366ed9b9b5ee)
+
 
 ## DB 구조도
 ![image](https://github.com/dydgjs200/Weatherable_backend/assets/146299597/8d24a967-e09e-433c-b147-30ad8e89537f)
